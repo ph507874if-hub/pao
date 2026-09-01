@@ -19,7 +19,7 @@ class Livro:
 
     @property
     def paginas(self):
-        return self.__paginas
+        return self.__paginas 
 
     @paginas.setter
     def paginas(self, valor):
@@ -42,7 +42,7 @@ class Leitor:
     __slots__ = ["__nome", "__idade"]
 
     def __init__(self, nome, idade):
-        self.__nome = nome
+        self.__nome = nome 
         self.idade = idade
 
     @property
@@ -138,7 +138,7 @@ livro2 = Livro("Percy Jackson e o Ladrão de Raios", "Rick Riordan", 400)
 livro3 = Livro("O Hobbit", "J. R. R. Tolkien", 336)
 livro4 = Livro("A Revolução dos Bichos", "George Orwell", 152)
 livro5 = Livro("Extraordinário", "R. J. Palacio", 320)
-livro6 = Livro("RE:Zero vol-11 ", "Tappei Nagatsuki.", 472 )
+livro6 = Livro("RE:Zero vol-11 ", "Tappei Nagatsuki.", 472)
 
 # ==========================================================================
 # Cadastro dos leitores
