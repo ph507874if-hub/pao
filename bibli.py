@@ -139,6 +139,7 @@ livro3 = Livro("O Hobbit", "J. R. R. Tolkien", 336)
 livro4 = Livro("A Revolução dos Bichos", "George Orwell", 152)
 livro5 = Livro("Extraordinário", "R. J. Palacio", 320)
 livro6 = Livro("RE:Zero vol-11 ", "Tappei Nagatsuki.", 472)
+livro7 = Livro("As Mil e Uma Noites","coletiva de autor anônimo", 1.306 )
 
 # ==========================================================================
 # Cadastro dos leitores
