@@ -160,6 +160,7 @@ biblioteca.acervo.adicionar_livro(livro3)
 biblioteca.acervo.adicionar_livro(livro4)
 biblioteca.acervo.adicionar_livro(livro5)
 biblioteca.acervo.adicionar_livro(livro6)
+biblioteca.acervo.adicionar_livro(livro7)
 
 # ========================================================================================
 # Emprétimos
