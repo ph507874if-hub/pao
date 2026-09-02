@@ -152,7 +152,7 @@ leitor2 = Leitor("Maria Clara", 20)
 # Biblioteca
 # ================================================================================
 
-biblioteca = Biblioteca("Biblioteca Mil e uma Historias")
+biblioteca = Biblioteca("Biblioteca Mil e uma Histórias")
 
 biblioteca.acervo.adicionar_livro(livro1)
 biblioteca.acervo.adicionar_livro(livro2)
